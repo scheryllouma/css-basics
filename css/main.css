@@ -1,0 +1,57 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300px;
+    font-size: 14px;
+
+}
+li a{
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    padding: 20px;
+background-color: darkgreen;
+
+}
+
+.btn {
+    font-family: serif;
+    color: chocolate;
+    background-color: crimson;
+    padding: 20px;
+    border-radius: 40%;
+    border: none;
+    cursor:pointer;
+
+    
+}
+
+.nav-links li{
+    display: inline-block;
+    margin: 18px;
+
+
+}
+
+.container {
+    width: 80%;
+    padding:30%;
+    text-align: center;
+
+
+}
+
+.box-1 {
+    text-align: left;
+    text-rendering: geometricPrecision;
+}
+#brand{
+    margin-bottom: 18px;
+
+}
